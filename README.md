@@ -10,7 +10,7 @@
   <a href = "mailto:celso.franca.neto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/celso-fran%C3%A7a001/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-    ![Snake animation](https://github.com/CelsoFrancaNeto/CelsoFrancaNeto/blob/output/github-contribution-grid-snake.svg)
+    
  
 </div>
 
@@ -18,6 +18,3 @@
 - ☕ Atualmente estudo Java e o paradigma da orientação a objetos.
 - 🧑‍🎓 Sou aluno de Engenharia da Computação no CEFET/MG, atualmente indo para o 3° período.
 - 💬 Estou interessado em propostas de estágio na área do desenvolvimento de software.
-
-  
-

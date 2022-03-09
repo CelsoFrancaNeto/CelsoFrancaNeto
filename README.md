@@ -16,5 +16,5 @@
 
 - 🔭 Estou trabalhando na Central de Recursos Computacionais da PUC Minas - Praça da Liberdade
 - ☕ Atualmente estudo Java e o paradigma da orientação a objetos.
-- 🧑‍🎓 Sou aluno de Engenharia da Computação no CEFET/MG, atualmente indo para o 3° período.
+- 🧑‍🎓 Sou aluno de Engenharia da Computação no CEFET/MG, atualmente indo para o 4° período.
 - 💬 Estou interessado em propostas de estágio na área do desenvolvimento de software.

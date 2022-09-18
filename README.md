@@ -14,7 +14,7 @@
  
 </div>
 
-- 🔭 Estou trabalhando na Central de Recursos Computacionais da PUC Minas - Praça da Liberdade
+- 🔭 Estou trabalhando no Central de Recursos Computacionais da PUC Minas - Praça da Liberdade
 - ☕ Java, Html, CSS, Javascript
 - 🧑‍🎓 Sou aluno de Engenharia da Computação no CEFET/MG, atualmente no 5° período.
 - 💬 Estou interessado em propostas de estágio na área do desenvolvimento de software.

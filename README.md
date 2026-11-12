@@ -10,8 +10,5 @@
   <a href="https://www.linkedin.com/in/celso-fran%C3%A7a001/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-- 🔭 Estou trabalhando na Central de Recursos Computacionais da PUC Minas - Praça da Liberdade
-- ☕ Java, HTML, CSS, Javascript
-- 🍃 Spring Boot e Bootstrap
-- 🧑‍🎓 Sou aluno de Engenharia da Computação no CEFET/MG, atualmente no 5° período.
-- 💬 Estou interessado em propostas de estágio na área do desenvolvimento de software.
+- Sou graduado em Engenharia de computação pelo Centro Federal de Tecnologia de Minas Gerais (CEFET-MG)
+- Trabalho como Engenheiro de Software pela SYDLE LTDA.
